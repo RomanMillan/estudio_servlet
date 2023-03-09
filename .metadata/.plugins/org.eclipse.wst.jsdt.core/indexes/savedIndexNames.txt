@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/estudiante/DAW2/Desarrollo web en entorno servidor/estudio_servlet/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4168760719.index
+2830686530.index
+2106039127.index
+3654534805.index
+1063627155.index
+4064489177.index
+4264513681.index

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="004_primerServlet">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
+        <property name="context-root" value="004_primerServlet"/>
+        <property name="java-output-path" value="/004_primerServlet/build/classes"/>
+    </wb-module>
+</project-modules>
