@@ -5,7 +5,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Insert title here</title>
+		<title>Datos a mostrar</title>
 	</head>
 	<body>
 		<%
@@ -16,5 +16,10 @@
 		<p>Nombre: <%= alumno.getNombre() %> </p>
 		<p>Apellido: <%= alumno.getApellidos() %> </p>
 		<p>Promedio: <%= alumno.getPromedio() %> </p> 
+		
+		<form action="index.jsp" method="post">
+			<input type="submit" value="Atras">
+		</form>
+		
 	</body>
 </html>
